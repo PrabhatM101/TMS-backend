@@ -48,4 +48,4 @@ npm install
 npm start
 
 
-API Documentation : htpp://localhost:3000/api-docs
+API Documentation : http://localhost:3000/api-docs
